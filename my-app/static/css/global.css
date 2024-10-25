@@ -1,0 +1,53 @@
+:root {
+    --horizonte: #FFFCF2;
+    --jupiter: #BDF574;
+    --kalimba: #EF4469;
+    --areia: #96F0FE;
+    --solitario: #A25BFF;
+    --beijo: #0d140e;
+    --beijo-light: #162018;
+  }
+
+  @font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Black.ttf);
+    font-weight: 500;
+  }
+
+  @font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Light.ttf);
+    font-weight: 100;
+  }
+
+  @font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Medium.ttf);
+    font-weight: 300;
+  }
+
+  @font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-Regular.ttf);
+    font-weight: 200;
+  }
+
+  @font-face {
+    font-family: Poppins;
+    src: url(../fonts/Poppins-SemiBold.ttf);
+    font-weight: 400;
+  }
+
+  * {
+    font-family: Poppins;
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scrollbar-width: none;
+  }
+
+  ::view-transition-old(root),
+  ::view-transition-new(root) {
+    animation-duration: 1s;
+  }

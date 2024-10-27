@@ -6,6 +6,8 @@ In mijn portfolio staat het werk wat ik heb gemaakt op gebied van frontend desig
 
 <img width="1000" alt="Scherm­afbeelding 2024-10-27 om 08 57 32" src="https://github.com/user-attachments/assets/a72fbcbe-db3f-4230-80c4-6a4e9c70404b">
 
+https://portfolio-lisavanmansoms-projects.vercel.app/
+
 ## Installatie
 * Installeer NodeJs;
 * Fork/clone deze repository;
